@@ -1,0 +1,24 @@
+{
+  "name": "graphql-express",
+  "version": "0.0.1",
+  "description": "Basic intro to GraphQL and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node server.js"
+  },
+  "keywords": [
+    "graphql",
+    "tutorial",
+    "intro"
+  ],
+  "author": "Huy Tran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.1.0"
+  }
+}
