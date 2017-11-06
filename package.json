@@ -1,7 +1,7 @@
 {
-  "name": "graphql-express",
-  "version": "0.0.1",
-  "description": "Basic intro to GraphQL and Express",
+  "name": "graphql-express-apollo-mongodb",
+  "version": "1.0.0",
+  "description": "Basic intro to GraphQL and Express using Apollo Server and MongoDB",
   "main": "index.js",
   "scripts": {
     "start": "babel-node server.js"
